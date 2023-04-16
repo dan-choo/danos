@@ -7,3 +7,5 @@ iso_root/
 
 *.iso
 *.elf
+
+boot/limine
