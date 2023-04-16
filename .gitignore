@@ -1,0 +1,9 @@
+
+build/
+build/*
+
+iso_root/*
+iso_root/
+
+*.iso
+*.elf
